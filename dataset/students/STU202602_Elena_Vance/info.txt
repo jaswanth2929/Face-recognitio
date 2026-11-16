@@ -1,0 +1,4 @@
+ID: STU202602
+Name: Elena Vance
+Department: Artificial Intelligence
+Samples: 15

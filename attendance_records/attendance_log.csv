@@ -1,0 +1,3 @@
+id,student_id,student_name,department,date,timestamp,confidence,status,detector_used,snapshot_path
+2,STU202602,Elena Vance,Computer Science,2026-11-16,11:35:07,0.8594,Present,haar,STU202602_20261116_113507.jpg
+1,STU202601,Alex Morgan,Computer Science,2026-11-16,11:34:43,0.755,Present,mtcnn,STU202601_20261116_113443.jpg

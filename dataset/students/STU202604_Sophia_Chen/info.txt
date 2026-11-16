@@ -1,0 +1,4 @@
+ID: STU202604
+Name: Sophia Chen
+Department: Data Science
+Samples: 15
